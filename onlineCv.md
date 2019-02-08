@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Portfolio
-description: web development
+title: Online CV
+description: web developer
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
