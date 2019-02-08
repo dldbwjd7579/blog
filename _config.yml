@@ -3,8 +3,8 @@ title: YU.JUNG
 subtitle: 
 email: dldbwjd7579@gmail.com
 description: Hi :)
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: dldbwjd7579.github.io/blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: dldbwjd7579.github.io
 author:
 street_address: 
 city: Seoul
