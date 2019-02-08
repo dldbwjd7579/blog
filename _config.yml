@@ -14,7 +14,7 @@ country: South Korea
 phone: 
 
 # homepage tiles
-tiles-source: YuJung # accepts "posts" or "pages"
+tiles-source: portfolio # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
