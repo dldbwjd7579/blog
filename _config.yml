@@ -3,8 +3,8 @@ title: YuJung
 subtitle: :D
 email: dldbwjd7579@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: dldbwjd.github.io
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: dldbwjd.github.io/blog
 author:
 street_address: 
 city: Seoul
