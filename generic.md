@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Portfolio
+description: web development
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
