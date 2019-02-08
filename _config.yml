@@ -3,7 +3,7 @@ title: YU.JUNG
 subtitle: 
 email: dldbwjd7579@gmail.com
 description: Hi :)
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author:
 street_address: 
